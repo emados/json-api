@@ -45,6 +45,14 @@ The server supports
 <a href="https://github.com/limoncello-php/app" target="_blank"><img src="https://github.com/limoncello-php/app/raw/master/resources/img/screen-shot.png" alt="Demo app screen-shot" title="Limoncello App" align="middle" width="330" height="252" /></a>
 </p>
 
+## Instllation
+
+Install **neomerx/json-api** with composer:
+
+```bash
+composer require neomerx/json-api
+```
+
 ## Sample usage
 
 Assuming you've got an ```$author``` of type ```\Author``` you can encode it to JSON API as simple as this
